@@ -14,6 +14,7 @@ public class Main {
       Zombie fastZombie = new Zombie();
       Dog spotDog = new Dog();
       Leopard bigLeopard = new Leopard();
+      GiantSpider giantSpider = new GiantSpider();
 
     }
 }
