@@ -6,5 +6,7 @@ public class Main {
       Pillow softPillow = new Pillow();
       Mace bigMace = new Mace();
       Arrow sharpArrow = new Arrow();
+      World world = new World();
+      world.load_tiles();  
     }
 }
